@@ -2,7 +2,7 @@
 
 Look at this spell :
 
-![](resources/vid/movie.mp4)
+![Interactions in the first 1/4 frames.](resources/vid/movie.mp4)
 
 To use this extension you will need:
 
