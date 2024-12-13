@@ -10,8 +10,7 @@ maintainer = "Martin Bari Garnier <martbari.g@gmail.com>"
 # Supported types: "add-on", "theme"
 type = "add-on"
 
-# # Optional: link to documentation, support, source files, etc
-# website = "https://extensions.blender.org/add-ons/my-example-package/"
+website = "https://github.com/MartinBaGar/Viber"
 
 # # Optional: tag list defined by Blender and server, see:
 # # https://docs.blender.org/manual/en/dev/advanced/extensions/tags.html
