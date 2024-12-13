@@ -1,5 +1,9 @@
 # Welcome MD Wizard !!!
 
+Look at this spell :
+
+![](./resources/vid/movie.mp4)
+
 To use this extension you will need:
 
 - A few python libraries (tested only for the following versions):
