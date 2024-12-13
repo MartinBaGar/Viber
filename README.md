@@ -2,7 +2,7 @@
 
 Look at this spell :
 
-![Interactions in the first 1/4 frames.](resources/vid/movie.mp4)
+https://github.com/MartinBaGar/Viber/blob/main/resources/vid/movie.mp4
 
 To use this extension you will need:
 
