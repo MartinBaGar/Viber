@@ -2,7 +2,7 @@
 
 Look at this spell :
 
-![](./resources/vid/movie.mp4)
+![](resources/vid/movie.mp4)
 
 To use this extension you will need:
 
