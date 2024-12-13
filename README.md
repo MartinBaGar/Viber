@@ -2,9 +2,6 @@
 
 Look at this spell :
 
-https://github.com/MartinBaGar/Viber/blob/main/resources/vid/movie.mp4
-
-
 https://github.com/user-attachments/assets/0c77dc30-714b-4c04-85c4-d3ead070af56
 
 
