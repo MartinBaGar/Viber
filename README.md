@@ -42,6 +42,16 @@ You can follow the provided notebook the generate both data and structure easily
 
 Download the ZIP file [here](https://raw.githubusercontent.com/MartinBaGar/Viber/main/viber-1.0.0.zip).
 
+Install it in Blender :
+
+Edit > Preferences > Get Extensions > Extension Settings > Install from Disk... > Choose any location you like.
+
+![Installing the extension](img/extension_installation.png)
+
+The extension should now be installed.
+
+![Extension installed](img/extension_installed.png)
+
 ## In-Blender useage
 
 The extension pannel is visible in the layout screen. You just need to load the JSON file and click the XXX button and the objects will be created automatically. As frame-hanlders are used to assign the coordinates to each interaction object, you will need to change the frame to make the bonds appear.
