@@ -44,13 +44,15 @@ Download the ZIP file [here](https://raw.githubusercontent.com/MartinBaGar/Viber
 
 Install it in Blender :
 
-Edit > Preferences > Get Extensions > Extension Settings > Install from Disk... > Choose any location you like.
+Edit ‣ Preferences ‣ Get Extensions ‣ Extension Settings ‣ Install from Disk... ‣ Choose any location you like.
 
 ![Installing the extension](img/extension_installation.png)
 
 The extension should now be installed.
 
 ![Extension installed](img/extension_installed.png)
+
+A new tab is now available in the Sidebar which can be toggled with the menu item View ‣ Sidebar or with the shortcut `n`.
 
 ## In-Blender useage
 
