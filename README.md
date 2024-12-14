@@ -24,6 +24,7 @@ To use this extension you will need:
 
 ## Prepare the data in a JSON format
 
+```{.bash}
 {
     "<Interaction_Type>": {
         "<Frame_Number>": [
@@ -34,15 +35,12 @@ To use this extension you will need:
         ]
     }
 }
-
+```
 You can follow the provided notebook the generate both data and structure easily.
 
 ## Install the extension
 
 Download the ZIP file [here](https://raw.githubusercontent.com/MartinBaGar/Viber/main/viber-1.0.0.zip).
-
-
-At the current state, you only need the `__init__.py` file and register it as an add-on.
 
 ## In-Blender useage
 
