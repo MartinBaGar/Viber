@@ -1,9 +1,6 @@
-# Welcome MD Wizard !!!
-
-Look at this spell :
+## Visualize Interaction in BlendER !!!
 
 https://github.com/user-attachments/assets/0c77dc30-714b-4c04-85c4-d3ead070af56
-
 
 To use this extension you will need:
 
@@ -18,7 +15,7 @@ To use this extension you will need:
     - Topology
     - Trajectory
 
-- The Molecular Nodes extension from the amazing BradyOJohnston.
+- The [Molecular Nodes](https://github.com/BradyAJohnston/MolecularNodes) extension from the amazing Brady Johnston.
 
 - A JSON file containting indices of interacting atoms per interaction type and per frame.
 
@@ -54,9 +51,15 @@ The extension should now be installed.
 
 A new tab is now available in the Sidebar which can be toggled with the menu item View ‣ Sidebar or with the shortcut `n`.
 
+![Access to viber](img/access_viber.png)
+
 ## In-Blender useage
 
 The extension pannel is visible in the layout screen. You just need to load the JSON file and click the XXX button and the objects will be created automatically. As frame-hanlders are used to assign the coordinates to each interaction object, you will need to change the frame to make the bonds appear.
+
+Be sure to uncheck relative path when loading the JSON file :
+
+![Uncheck relative path](img/uncheck_relative_path.png)
 
 For some reasons not identified yet, the coordinates updates can break leabing the objects at their last state. To repair that you just need to select your Molecular Nodes object to make it active and then just click the XXX button and that's it !
 
