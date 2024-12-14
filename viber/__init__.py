@@ -269,8 +269,8 @@ class OBJECT_OT_remake_interaction(Operator):
 class VIEW3D_PT_interation_visualizer(Panel):
     bl_space_type = "VIEW_3D"
     bl_region_type = "UI"
-    bl_category = "Interaction visualizer"
-    bl_label = "Interaction visualizer"
+    bl_category = "Viber"
+    bl_label = "Viber"
 
     def draw(self, context):
         layout = self.layout
