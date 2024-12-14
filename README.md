@@ -39,9 +39,7 @@ You can follow the provided notebook the generate both data and structure easily
 
 ## Install the extension
 
-Download the ZIP file [here](./viber-1.0.0.zip).
-
-Download the ZIP file [here](https://github.com/MartinBaGar/Viber/blob/main/viber-1.0.0.zip).
+Download the ZIP file [here](https://raw.githubusercontent.com/MartinBaGar/Viber/main/viber-1.0.0.zip).
 
 
 At the current state, you only need the `__init__.py` file and register it as an add-on.
