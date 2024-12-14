@@ -49,19 +49,26 @@ The extension should now be installed.
 
 ![Extension installed](img/extension_installed.png)
 
-A new tab is now available in the Sidebar which can be toggled with the menu item View ‣ Sidebar or with the shortcut `n`.
+A new tab is now available in the Sidebar which can be toggled with the menu item View ‣ Sidebar or with the shortcut `N`.
 
 ![Access to viber](img/access_viber.png)
 
-## In-Blender useage
+## In-Blender use {#sec-use-viber}
 
-The extension pannel is visible in the layout screen. You just need to load the JSON file and click the XXX button and the objects will be created automatically. As frame-hanlders are used to assign the coordinates to each interaction object, you will need to change the frame to make the bonds appear.
+Open the Viber pannel, load the JSON file without using a relative path (see @fig-json-path) and click on "Visualize Interactions" to create the interaction objects.
+As frame-hanlders are used to assign the coordinates to each interaction object, you will need to change the frame to make the bonds appear.
 
-Be sure to uncheck relative path when loading the JSON file :
+![Uncheck relative path](img/load_json.png){#fig-json-path}
 
-![Uncheck relative path](img/uncheck_relative_path.png)
+For some reasons not identified yet, the coordinates updates can break leabing the objects at their last state. To repair that you just need to select your Molecular Nodes object to make it active and then just click on "Reload Interactions" and that's it !
 
-For some reasons not identified yet, the coordinates updates can break leabing the objects at their last state. To repair that you just need to select your Molecular Nodes object to make it active and then just click the XXX button and that's it !
+## Mini tutorial
+
+Load the topology and trajectory with Molecular Nodes.
+
+![Load the Molecular Nodes object](img/load_MN_object.png)
+
+Load your JSON file and create the interaction objects as described in the {#sec-use-viber}.
 
 ## Customization
 
